@@ -1,0 +1,18 @@
+# EC2 Setup – Cloud Ops Perspective
+
+## Tasks Covered
+- Launching EC2 instances
+- Selecting instance types
+- Key pair management
+- Security group configuration
+- Monitoring instance health
+
+## Cloud Ops Notes
+- EC2 instances should be monitored for CPU, memory, and disk usage
+- Security groups act as virtual firewalls
+- Stopped instances still incur EBS costs
+
+## Troubleshooting Scenarios
+- Instance unreachable due to incorrect security group
+- High CPU usage due to workload spike
+- Disk full issues on root volume
