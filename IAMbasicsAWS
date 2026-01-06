@@ -1,0 +1,16 @@
+# IAM Basics – AWS Cloud Operations
+
+## Concepts
+- IAM Users, Groups, and Roles
+- Managed vs Inline policies
+- Principle of least privilege
+
+## Cloud Ops Responsibilities
+- Granting access to users based on role
+- Rotating credentials
+- Auditing permissions
+- Avoiding root account usage
+
+## Example Use Case
+- Creating a read-only IAM user for monitoring
+- Assigning EC2 access role to applications
