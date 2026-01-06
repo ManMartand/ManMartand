@@ -11,7 +11,7 @@ Cloud Operations Enthusiast | AWS & Azure Learner | Immediate Joiner
 # AWS Cloud Ops Basics  
 It contains foundational AWS scripts & Terraform for common cloud tasks like EC2 provisioning, IAM policies, and monitoring.
 
-# Azure Cloud Sample  
+# Azure Cloud Project
 Azure project demonstrating provisioning of a VM and storage with monitoring configuration.
 
 # Terraform Cloud Infra  
