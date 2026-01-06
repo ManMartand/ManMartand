@@ -1,69 +1,83 @@
 # AWS Cloud Ops Basics
 
-This repository contains foundational AWS Cloud Operations concepts and hands-on examples covering compute, identity & access management, monitoring, and cost optimization.
-
-The purpose of this repository is to demonstrate practical understanding of AWS services commonly used in Cloud Operations / Support roles.
+This repository demonstrates **foundational AWS Cloud Operations tasks** commonly performed by Cloud Ops / Junior Cloud Engineers.  
+The focus is on **compute, storage, IAM, monitoring, and cost awareness**, aligned with real-world production support scenarios.
 
 ---
 
 ## 🔧 Services Covered
 
-- AWS EC2
-- AWS S3
-- AWS IAM
-- AWS CloudWatch
-- AWS Cost Optimization basics
+- **Amazon EC2** – Instance provisioning & management
+- **Amazon S3** – Storage & lifecycle management
+- **IAM** – Users, roles, and policies
+- **CloudWatch** – Monitoring & alerts
+- **AWS CLI** – Basic operational commands
+- **Terraform (Basics)** – Infrastructure as Code
 
 ---
 
-## 📌 Topics Included
+## 📌 Project Use Cases
 
 ### 1️⃣ EC2 Operations
-- EC2 instance launch basics
-- Security groups
-- Key pairs
-- Instance monitoring
-- Start/stop & troubleshooting basics
+- Launching EC2 instances
+- Understanding instance types & cost impact
+- Security group basics
+- Start/Stop instances for cost optimization
 
 ### 2️⃣ IAM Basics
-- Users, groups, and roles
-- IAM policies (inline & managed)
-- Least privilege principle
-- IAM best practices
+- Creating IAM users & roles
+- Attaching least-privilege policies
+- Understanding IAM best practices
 
-### 3️⃣ Monitoring & Alerts
-- CloudWatch metrics
-- CloudWatch alarms
-- Basic alerting strategy
-- Operational monitoring concepts
+### 3️⃣ S3 Operations
+- Creating S3 buckets
+- Uploading & managing objects
+- Implementing lifecycle policies
+- Cost-effective storage practices
 
-### 4️⃣ Cost Optimization
-- Instance rightsizing
-- Storage lifecycle policies
-- Cost monitoring basics
-- Tagging best practices
+### 4️⃣ CloudWatch Monitoring
+- Creating CloudWatch alarms
+- Monitoring CPU utilization
+- Understanding logs & metrics
+- Alerting for operational issues
 
----
-
-## 🎯 Target Role
-
-This repository is designed for:
-- Cloud Operations Engineer
-- Junior Cloud Engineer
-- AWS Cloud Support Engineer
+### 5️⃣ Cost Optimization (Ops Perspective)
+- Instance rightsizing awareness
+- Storage lifecycle rules
+- Monitoring unused resources
 
 ---
 
-## 📚 Learning Mode
+## 🛠️ Tools Used
 
-- Hands-on practice
-- Documentation-driven learning
-- Real-world operational scenarios
+- AWS Console
+- AWS CLI
+- Terraform (basic examples)
+- Linux fundamentals
+- Git
 
 ---
 
-## 📫 Contact
+## 📂 Repository Structure
 
-Manu Martand  
-📧 Email: manumartund98@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/mmd-manu-martund-662159b5
+```bash
+aws-cloud-ops-basics/
+│
+├── ec2/
+│   ├── ec2-notes.md
+│   └── ec2-commands.sh
+│
+├── iam/
+│   ├── iam-basics.md
+│
+├── s3/
+│   ├── s3-operations.md
+│   └── lifecycle-policy.json
+│
+├── cloudwatch/
+│   └── cloudwatch-alarms.md
+│
+├── terraform/
+│   └── ec2-basic.tf
+│
+└── README.md
