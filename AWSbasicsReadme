@@ -1,0 +1,69 @@
+# AWS Cloud Ops Basics
+
+This repository contains foundational AWS Cloud Operations concepts and hands-on examples covering compute, identity & access management, monitoring, and cost optimization.
+
+The purpose of this repository is to demonstrate practical understanding of AWS services commonly used in Cloud Operations / Support roles.
+
+---
+
+## 🔧 Services Covered
+
+- AWS EC2
+- AWS S3
+- AWS IAM
+- AWS CloudWatch
+- AWS Cost Optimization basics
+
+---
+
+## 📌 Topics Included
+
+### 1️⃣ EC2 Operations
+- EC2 instance launch basics
+- Security groups
+- Key pairs
+- Instance monitoring
+- Start/stop & troubleshooting basics
+
+### 2️⃣ IAM Basics
+- Users, groups, and roles
+- IAM policies (inline & managed)
+- Least privilege principle
+- IAM best practices
+
+### 3️⃣ Monitoring & Alerts
+- CloudWatch metrics
+- CloudWatch alarms
+- Basic alerting strategy
+- Operational monitoring concepts
+
+### 4️⃣ Cost Optimization
+- Instance rightsizing
+- Storage lifecycle policies
+- Cost monitoring basics
+- Tagging best practices
+
+---
+
+## 🎯 Target Role
+
+This repository is designed for:
+- Cloud Operations Engineer
+- Junior Cloud Engineer
+- AWS Cloud Support Engineer
+
+---
+
+## 📚 Learning Mode
+
+- Hands-on practice
+- Documentation-driven learning
+- Real-world operational scenarios
+
+---
+
+## 📫 Contact
+
+Manu Martand  
+📧 Email: manumartund98@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/mmd-manu-martund-662159b5
