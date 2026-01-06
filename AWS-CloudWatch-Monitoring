@@ -1,0 +1,16 @@
+# AWS CloudWatch Monitoring
+
+## Metrics Monitored
+- CPU Utilization
+- Disk I/O
+- Network traffic
+- Status checks
+
+## Alarms
+- CPU > 80% for 5 minutes
+- Instance status check failure
+
+## Cloud Ops Value
+- Early detection of performance issues
+- Preventing outages
+- Supporting SLA commitments
