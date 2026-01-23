@@ -1,23 +1,53 @@
-**About**
-Hi 👋 I’m Manu Martand  
-Cloud Operations Enthusiast | AWS & Azure Learner | Immediate Joiner
+## 👋 Hi, I'm Manu Martand
 
-**Skills**
-☁️ Cloud Platforms: AWS (EC2, S3, IAM, CloudWatch), Azure (VMs, Storage, Monitor)  
-⚙️ Tools: Terraform, Git, Azure CLI, AWS CLI
+Cloud Operations / Junior DevOps Engineer with 5+ years of overall experience across
+operations, engineering, and cloud support roles.
 
-**Projects**
+I have hands-on exposure to AWS and Azure cloud environments, infrastructure operations,
+monitoring, and automation. I am currently focused on transitioning into a full-time
+Cloud / DevOps role.
 
-# AWS Cloud Ops Basics  
-It contains foundational AWS scripts & Terraform for common cloud tasks like EC2 provisioning, IAM policies, and monitoring.
+---
 
-# Azure VM & Automation
-Azure project demonstrating provisioning of a VM and storage with monitoring configuration.
+## 🔧 Skills & Tools
 
-# Terraform Cloud Infra  
-Basic Terraform project to provision AWS/Azure infrastructure using reusable modules.
+### Cloud Platforms
+- AWS: EC2, VPC, IAM, S3, CloudWatch, ALB, Auto Scaling, ECS, EKS
+- Azure: Virtual Machines, Storage Accounts, Monitoring
 
-<!---
-ManMartand/ManMartand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Infrastructure & Automation
+- Terraform (v1.x)
+- Linux (RHEL/Ubuntu)
+- Bash scripting
+- Python (basic automation)
+
+### Containers & Orchestration
+- Docker
+- Kubernetes (basic)
+- ECS
+
+### CI/CD
+- GitHub Actions
+
+### Monitoring & Logging
+- Prometheus
+- Grafana
+- CloudWatch
+
+---
+
+## 🚀 What I Work On
+- Cloud infrastructure automation using Terraform
+- AWS cloud operations & troubleshooting
+- Containerized workloads on ECS / Kubernetes
+- Monitoring and alerting for production systems
+
+---
+
+## 📂 Featured Projects
+- Terraform-based AWS Auto Scaling + ALB architecture
+- Azure on-prem to cloud storage migration support
+- Dockerized application deployed on AWS ECS
+- Monitoring setup using Prometheus & Grafana
+
+📫 LinkedIn: https://www.linkedin.com/in/mmd-manu-martund-clouder
