@@ -1,53 +1,79 @@
-## 👋 Hi, I'm Manu Martand
+# Hi, I'm Manu Martand 👋
 
-Cloud Operations / Junior DevOps Engineer with 5+ years of overall experience across
-operations, engineering, and cloud support roles.
+An Engineer with 6 years of total experience & 4+ years in Cloud Operations, Production Support, and Infrastructure Management. Focused on building reliable, secure, and scalable cloud environments with hands-on experience in AWS, Linux, monitoring, and automation.
 
-I have hands-on exposure to AWS and Azure cloud environments, infrastructure operations,
-monitoring, and automation. I am currently focused on transitioning into a full-time
-Cloud / DevOps role.
+I enjoy solving infrastructure issues, improving uptime, optimizing systems, and continuously learning modern cloud technologies.
 
 ---
 
-## 🔧 Skills & Tools
+## 🚀 About Me
 
-### Cloud Platforms
-- AWS: EC2, VPC, IAM, S3, CloudWatch, ALB, Auto Scaling, ECS, EKS
-- Azure: Virtual Machines, Storage Accounts, Monitoring
-
-### Infrastructure & Automation
-- Terraform (v1.x)
-- Linux (RHEL/Ubuntu)
-- Bash scripting
-- Python (basic automation)
-
-### Containers & Orchestration
-- Docker
-- Kubernetes (basic)
-- ECS
-
-### CI/CD
-- GitHub Actions
-
-### Monitoring & Logging
-- Prometheus
-- Grafana
-- CloudWatch
+- ☁️ Hands-on experience managing AWS cloud environments  
+- 🛠 Strong in Linux administration, troubleshooting, and support  
+- 📈 Experienced in monitoring, alerting, and incident handling  
+- 🔐 Security-focused with IAM and access control knowledge  
+- 🤖 Interested in DevOps, automation, and Infrastructure as Code  
+- 📚 Currently advancing skills in AWS Architecture, Terraform, and Kubernetes  
 
 ---
 
-## 🚀 What I Work On
-- Cloud infrastructure automation using Terraform
-- AWS cloud operations & troubleshooting
-- Containerized workloads on ECS / Kubernetes
-- Monitoring and alerting for production systems
+## ⚙️ Technical Skills
+
+☁️ **AWS:** EC2 | S3 | IAM | VPC | RDS | Lambda | CloudWatch | Route 53 | ELB | Auto Scaling | ECS
+
+🛠 **Tools:** Git | GitHub | Jenkins | Terraform | Linux | CI/CD | Monitoring
+
+💻 **Scripting & DB:** Bash | Python (Basics) | MySQL
 
 ---
 
-## 📂 Featured Projects
-- Terraform-based AWS Auto Scaling + ALB architecture
-- Azure on-prem to cloud storage migration support
-- Dockerized application deployed on AWS ECS
-- Monitoring setup using Prometheus & Grafana
+## 📌 Featured Projects
 
-📫 LinkedIn: https://www.linkedin.com/in/mmd-manu-martund-clouder
+### 🔹 AWS Highly Available Web Architecture
+Designed a scalable web application using EC2, Load Balancer, Auto Scaling, RDS, and CloudWatch across multiple Availability Zones.
+
+### 🔹 Serverless File Processing
+Built an automated workflow using S3 triggers and AWS Lambda for event-driven file processing.
+
+### 🔹 Monitoring & Alerting Dashboard
+Configured CloudWatch dashboards, alarms, and notifications for proactive infrastructure monitoring.
+
+### 🔹 Secure IAM Access Management
+Implemented IAM users, groups, roles, and least-privilege policies for secure access control.
+
+---
+
+## 💼 What I Bring
+
+✔ Production Support Mindset  
+✔ Strong Troubleshooting Skills  
+✔ Cloud Operations Experience  
+✔ Security Awareness  
+✔ Ownership & Reliability  
+✔ Continuous Learning Attitude  
+
+---
+
+## 🎯 Open To Roles
+
+- Cloud Engineer  
+- AWS Support Engineer  
+- DevOps Engineer  
+- Site Reliability Engineer  
+- Infrastructure Engineer  
+
+---
+
+## 📫 Connect With Me
+
+🔗 LinkedIn: https://www.linkedin.com/in/mmd-manu-martund-clouder/  
+📧 Email: manumartund98@gmail.com 
+💻 GitHub: https://github.com/ManMartand
+
+---
+
+## ⚡ Quote I Follow
+
+> Build reliable systems. Solve real problems. Keep learning.
+
+---
