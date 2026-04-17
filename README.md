@@ -1,6 +1,6 @@
 # Hi, I'm Manu Martand 👋
 
-An Engineer with 6 years of total experience & 4+ years in Cloud Operations, Production Support, and Infrastructure Management. Focused on building reliable, secure, and scalable cloud environments with hands-on experience in AWS, Linux, monitoring, and automation.
+Cloud Engineer with 6 years of IT experience including 4+ years in Cloud Operations, Production Support, and Infrastructure Management. Focused on building reliable, secure, and scalable cloud environments with hands-on experience in AWS, Linux, monitoring, and automation.
 
 I enjoy solving infrastructure issues, improving uptime, optimizing systems, and continuously learning modern cloud technologies.
 
